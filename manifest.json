@@ -1,0 +1,11 @@
+{
+  "name": "v3 screen recording example",
+  "manifest_version": 3,
+  "version": "1.0",
+  "description": "A simple way to Record Your Screen and Audio.",
+
+  "background": {
+    "service_worker": "background.js"
+  },
+  "action": {}
+}
